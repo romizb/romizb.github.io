@@ -4,7 +4,7 @@
 ## 🐳 About me 🐳
 * Currently based in Rechovot
 * Animal lover
-* Superpower- making beer disapear
+* Superpower- making beer disappear
 * Undergraduate in Animal Science and Biotechnology from the Hebrew U
 * Doing my Masters cuz I ~~dont want to be an adult yet~~ love research :)
 
@@ -17,7 +17,7 @@
 
 ## 🦥 Links 🦥
 1. [Mr. Szabó's home page](https://szabgab.com/)
-1. [Weizmann Institute of Sciense](https://www.weizmann.ac.il/pages/)
+1. [Weizmann Institute of Science](https://www.weizmann.ac.il/pages/)
 1. [GitHub Profile](https://github.com/romizb)
 
   
