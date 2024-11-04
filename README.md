@@ -10,7 +10,7 @@
 
 
 ##  Contact me via 🐧 
-📧ruchama.brody@weizmann.ac.il
+📧<ins>ruchama.brody@weizmann.ac.il</ins>
 
 🔗[linkedin](www.linkedin.com/in/romi-brody)
 
