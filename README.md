@@ -9,7 +9,7 @@
 * Doing my Masters cuz I ~~dont want to be an adult yet~~ love research :)
 
 
-##  Contact me via 🐧 
+##  🐧 Contact me via 🐧 
 📧<ins>ruchama.brody@weizmann.ac.il</ins>
 
 🔗[linkedin](www.linkedin.com/in/romi-brody)
