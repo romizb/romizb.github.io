@@ -1,6 +1,6 @@
 # **_Romi Brody_**
 ![The Brody family <3](family_image.jpg)
-<sub>The Brody family <3</sub>
+
 ## 🐳 About me 🐳
 * Currently based in Rechovot
 * Animal lover
@@ -10,9 +10,9 @@
 
 
 ##  🐧 Contact me via 🐧 
-📧<ins>ruchama.brody@weizmann.ac.il</ins>
+📧 [E-mail](ruchama.brody@weizmann.ac.il)
 
-🔗[linkedin](www.linkedin.com/in/romi-brody)
+🔗 [linkedin](www.linkedin.com/in/romi-brody)
 
 
 ## 🦥 Links 🦥
