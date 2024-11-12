@@ -2,3 +2,5 @@ title: "Romi Brody"
 theme: jekyll-theme-merlot
 logo: "family_image.jpg"  
 description: "Currently peruing my MSc, in the lab of <a href="https://www.weizmann.ac.il/molgen/Gur/">Testing Landing Page</a>"
+github:
+  is_project_page: false
