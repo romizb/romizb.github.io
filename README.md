@@ -5,7 +5,7 @@
 * Currently based in Rechovot
 * Animal lover
 * Superpower- making beer disappear
-* Undergraduate in Animal Science and Biotechnology from the Hebrew U
+* Undergraduate in Animal Science and Biotechnology from Huji
 * Doing my Masters cuz I ~~dont want to be an adult yet~~ love research :)
 
 
