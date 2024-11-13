@@ -5,15 +5,15 @@
 * Currently based in Rechovot
 * Animal lover
 * Superpower- making beer disappear
-* Undergraduate in Animal Science and Biotechnology from Huji
+* Undergraduate in Animal Science and Biotechnology from Huji 
 * Doing my Masters cuz I ~~dont want to be an adult yet~~ love research :)
 
 
 
-##  🐧 Contact me via 🐧 
-📧 [E-mail](ruchama.brody@weizmann.ac.il)
+##  🐧 Contact me via 🐧##
+E-mail- __ruchama.brody@weizmann.ac.il__
 
-🔗 [linkedin](www.linkedin.com/in/romi-brody)
+[linkedin](www.linkedin.com/in/romi-brody)
 
 
 ## 🦥 Links 🦥
