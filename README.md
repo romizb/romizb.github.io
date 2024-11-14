@@ -10,10 +10,9 @@
 
 
 ##  🐧 Contact me via 🐧
-__ruchama.brody@weizmann.ac.il__
+📧__ruchama.brody@weizmann.ac.il__
 
-
-[Linkedin](https://il.linkedin.com/in/romi-brody)
+🔗 [Linkedin](https://il.linkedin.com/in/romi-brody)
 
 
 
@@ -21,5 +20,8 @@ __ruchama.brody@weizmann.ac.il__
 1. [Mr. Szabó's home page](https://szabgab.com/)
 1. [Weizmann Institute of Science](https://www.weizmann.ac.il/pages/)
 1. [GitHub Profile](https://github.com/romizb)
+
+
+
 
   
