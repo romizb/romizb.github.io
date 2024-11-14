@@ -2,7 +2,7 @@
 ![The Brody family <3](family_image.jpg)
 <sub>The Brody family <3</sub>
 ## 🐳 About me 🐳
-* Currently based in Rechovot
+* Currently peruing my MSc, in the lab of [Dvir Gur](https://www.weizmann.ac.il/molgen/Gur/home)
 * Animal lover
 * Superpower- making beer disappear
 * Undergraduate in Animal Science and Biotechnology from Huji 
@@ -13,7 +13,7 @@
 ##  🐧 Contact me via 🐧
 __ruchama.brody@weizmann.ac.il__
 
-www.linkedin.com/in/romi-brody
+[Linkedin]www.linkedin.com/in/romi-brody
 
 
 ## 🦥 Links 🦥
