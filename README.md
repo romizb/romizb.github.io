@@ -2,7 +2,7 @@
 ![The Brody family <3](family_image.jpg)
 <sub>The Brody family <3</sub>
 ## 🐳 About me 🐳
-* Currently peruing my MSc, in the lab of [Dvir Gur](https://www.weizmann.ac.il/molgen/Gur/home), where we explore the pigment cells and the mechanisms of biological crystallization
+* Currently persuing my MSc, in the lab of [Dvir Gur](https://www.weizmann.ac.il/molgen/Gur/home), where we explore the pigment cells and the mechanisms of biological crystallization
 * Animal lover (proud dog momma)
 * Undergraduate in Animal Science and Biotechnology from Huji 
 * Doing my Masters cuz I ~~dont want to be an adult yet~~ love research :)
@@ -13,6 +13,7 @@
 __ruchama.brody@weizmann.ac.il__
 
 [Linkedin](www.linkedin.com/in/romi-brody)
+
 [Linkedin](https://il.linkedin.com/in/romi-brody)
 
 
