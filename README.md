@@ -11,7 +11,7 @@
 
 
 ##  🐧 Contact me via 🐧##
-E-mail- __ruchama.brody@weizmann.ac.il__
+__ruchama.brody@weizmann.ac.il__
 
 [linkedin](www.linkedin.com/in/romi-brody)
 
