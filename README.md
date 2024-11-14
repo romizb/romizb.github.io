@@ -13,7 +13,7 @@
 ##  🐧 Contact me via 🐧
 __ruchama.brody@weizmann.ac.il__
 
-[](www.linkedin.com/in/romi-brody)
+www.linkedin.com/in/romi-brody
 
 
 ## 🦥 Links 🦥
