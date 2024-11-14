@@ -12,7 +12,6 @@
 ##  🐧 Contact me via 🐧
 __ruchama.brody@weizmann.ac.il__
 
-[Linkedin](www.linkedin.com/in/romi-brody)
 
 [Linkedin](https://il.linkedin.com/in/romi-brody)
 
