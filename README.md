@@ -6,7 +6,7 @@
 * Animal lover (proud dog momma)
 * Undergraduate in Animal Science and Biotechnology from Huji 
 * Doing my Masters cuz I ~~dont want to be an adult yet~~ love research :)
-
+* hellooo
 
 
 ##  🐧 Contact me via 🐧
