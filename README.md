@@ -16,10 +16,7 @@
 <a href="mailto:ruchama.brody@weizmann.ac.il" style="display: inline-block; margin-right: 10px;">
   <img src="email-icon--clipart-best-22.png" alt="Email Icon" width="30">
 </a>
-
-
-
-<a href="https://github.com/romizb?tab=repositories" style="display: inline-block;">
+<a href="https://github.com/romizb" style="display: inline-block;">
   <img src="github icon.png" alt="github" width="30">
 </a>
 
