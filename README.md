@@ -13,9 +13,12 @@
 <a href="https://il.linkedin.com/in/romi-brody" style="display: inline-block; margin-right: 10px;">
   <img src="circle-linkedin-512.jpeg" alt="linkedin" width="30">
 </a>
-<a href="ruchama.brody@weizmann.ac.il" style="display: inline-block; margin-right: 10px;">
+<a href="mailto:ruchama.brody@weizmann.ac.il" style="display: inline-block; margin-right: 10px;">
   <img src="email-icon--clipart-best-22.png" alt="Email Icon" width="30">
 </a>
+
+
+
 <a href="https://github.com/romizb?tab=repositories" style="display: inline-block;">
   <img src="github icon.png" alt="github" width="30">
 </a>
